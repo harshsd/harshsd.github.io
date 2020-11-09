@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Research Interests and Hobbies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, my name is Harsh Deshpande and I am a final year undergraduate student at IIT Bombay where I am pursuing a Dual Degree (B.Tech + M.Tech) in Electrical Engineering specialising in Communication and Signal Processing. I have also completed my minor in Computer Science and Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Research Interests
 
-### My story
+My Research Interest include Machine Learning and Reinforcement Learning including Natural Language Processing, Speech Processing and Multi-Armed Bandits.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Currently, for my M.Tech Thesis, I am working with Professor Sharayu Moharir on a multi-armed bandit problem where we try and model different modulation schemes as bandit arms with heterogenous data-rates and have proposed policies along with theoretical bounds on their performance.
+
+I am also a part of the CSALT lab at IIT Bombay where I work with Professor Preethi Jyothi. Currently, I am working on a voice-conversion project which leverages a large amount of clean data available in a domain to perform accent transfer along with noise removal on speech utterances from a smaller and noisy domain.
+
+I am the team-lead of the IIT Bombay Mars Rover Team. At IITB-MRT, I am responsible for leading a team of 35 volunteers who aim to build a prototype Mars rover capable of extra-terrestrial robotics. We recently stood 4th in the IRDC challenge that took place in June 2020 where more than 25 teams from 6+ countries participated.
