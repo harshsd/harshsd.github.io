@@ -15,9 +15,12 @@ author: Harsh Deshpande
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research: "research"
+  Experience: "workex"
+  Curriculum-Vitae: "CV"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
