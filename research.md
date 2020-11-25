@@ -10,7 +10,7 @@ Machine Learning, Reinforcement Learning, Probabilistic Modelling, Natural Langu
 ## Publication
 1. ***Exploratory Navigation and Selective Reading***  
    Natwar Modani, Paridhi Maheshwari, Harsh Deshpande, Saurab Sirpurkar, Diviya, Somak Aditya  
-   AAAI Conference on Aritificial Intelligence 2020 at New York, USA  
+   AAAI Conference on Aritificial Intelligence 2020 at New York, USA1  
 
 2. ***Age-of-Information Bandits with Heterogeneous Data Rates***  
   Harsh Deshpande, Sucheta Ravikanti, and Sharayu Moharir  
