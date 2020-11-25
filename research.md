@@ -23,10 +23,10 @@ Machine Learning, Reinforcement Learning, Probabilistic Modelling, Natural Langu
 
 ## Patents
 
-1. ***Automated Identification of Concept Labels for a Text Fragment***
+1. ***Automated Identification of Concept Labels for a Text Fragment***  
 (Filed at US Patent Office on February 6)
 
-2. ***Automated Identification of Concept Labels for a Text Fragment***
+2. ***Automated Identification of Concept Labels for a Text Fragment***  
 (Filed at US Patent Office on February 6)
 
 ## Research Projects
@@ -36,5 +36,5 @@ Machine Learning, Reinforcement Learning, Probabilistic Modelling, Natural Langu
 3. **Age-of-Information Bandits with heterogenous data-rates**  
     Working with Professor Sharayu Moharir (Stochastic Systems Lab,EE IITB) on bandits with heterogenous data-rates and algorithms to minimize throughput and age-of-information regret.
 
-2. **Language Models for Morphologically-Rich Languages**
+2. **Language Models for Morphologically-Rich Languages**  
     Worked with Professor Preethi Jyothi to leverage inmplicit information in morphologically rich languages like Hindi, Tamil, Kannad & Finnish and use the structure of the words to design a better language model.

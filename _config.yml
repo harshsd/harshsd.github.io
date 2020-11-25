@@ -18,7 +18,7 @@ navbar-links:
   Research: "research"
   Experience: "workex"
   Curriculum-Vitae: "resume"
-  Travel: "travel"
+  # Travel: "travel"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
