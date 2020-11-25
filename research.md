@@ -30,3 +30,11 @@ Machine Learning, Reinforcement Learning, Probabilistic Modelling, Natural Langu
 (Filed at US Patent Office on February 6)
 
 ## Research Projects
+
+1. **Voice Conversion in Low-Resource Domains**  
+    Working with Professor Preethi Jyothi (CSALT,CSE IITB) on voice conversion models for low-resource datasets of non-native speakers
+3. **Age-of-Information Bandits with heterogenous data-rates**  
+    Working with Professor Sharayu Moharir (Stochastic Systems Lab,EE IITB) on bandits with heterogenous data-rates and algorithms to minimize throughput and age-of-information regret.
+
+2. **Language Models for Morphologically-Rich Languages**
+    Worked with Professor Preethi Jyothi to leverage inmplicit information in morphologically rich languages like Hindi, Tamil, Kannad & Finnish and use the structure of the words to design a better language model.
