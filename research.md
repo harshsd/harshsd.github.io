@@ -26,7 +26,7 @@ Machine Learning, Reinforcement Learning, Probabilistic Modelling, Natural Langu
 1. ***Automated Identification of Concept Labels for a Text Fragment***  
 (Filed at US Patent Office on February 6)
 
-2. ***Automated Identification of Concept Labels for a Text Fragment***  
+2. ***Automated Identification of Concept Labels for a set of Documents***  
 (Filed at US Patent Office on February 6)
 
 ## Research Projects

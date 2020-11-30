@@ -19,6 +19,6 @@ In my short stint of industrial experience, I've had the opportunity to work as 
 
 ##  Leadership Experience  
 
-1. **Team Lead , IITB Mars Rover Team**
+1. **Team Lead , IITB Mars Rover Team**  
     *Aug'19 - Present*  
     Responsible for leading a team of 30+ student volunteers to develop a rover prototype capable of extraterrestial operations.
